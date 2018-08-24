@@ -13,6 +13,8 @@ int main()
     int contadorPares=0;
     float promedioPositivos;
     float promedioNegativos;
+    int maximo;
+    int flag=0;
 
 
 
@@ -41,6 +43,13 @@ int main()
         if(numero%2==0)
             {
                 contadorPares++;
+            }
+
+        if(flag==0 || numero>maximo )
+            {
+                maximo=numero;
+                flag = 1;.
+
             }
 
         setbuf(stdin,NULL);
