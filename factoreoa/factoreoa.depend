@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1535727756 source:c:\users\alumno\desktop\factoreoa\main.c
+	<stdio.h>
+	<stdlib.h>
+
