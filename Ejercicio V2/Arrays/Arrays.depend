@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1536842497 source:c:\users\alumno\desktop\arrays\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1536850567 source:c:\users\alumno\desktop\ejercicio_de_vectores_1b-master\arrays\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
